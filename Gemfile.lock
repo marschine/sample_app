@@ -28,6 +28,7 @@ GEM
       activemodel (= 3.0.1)
       activesupport (= 3.0.1)
     activesupport (3.0.1)
+    annotate (2.4.0)
     arel (1.0.1)
       activesupport (~> 3.0.0)
     builder (2.1.2)
@@ -89,6 +90,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  annotate
   rails (= 3.0.1)
   rspec (= 2.0.1)
   rspec-rails (= 2.0.1)
